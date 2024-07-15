@@ -1,0 +1,1 @@
+Olá, pessoal! 🚀 Recentemente desenvolvi uma implementação em C que permite calcular de forma eficiente as somas individuais de linhas e colunas em matrizes. Esta solução é ideal para análise de dados estruturados e otimização de algoritmos
